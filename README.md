@@ -99,6 +99,7 @@ titanic-survival-prediction/
 │   └── titanic_survival_prediction.ipynb
 ├── images/
 │   ├── survival_by_class_sex.png
+│   └── survival_by_age_distribution.png
 │   └── feature_importance.png
 ├── requirements.txt
 └── README.md
@@ -116,4 +117,4 @@ scikit-learn
 
 ---
 
-*Dataset: Titanic - Machine Learning from Disaster (Kaggle).*
+*Dataset: Titanic Survival Prediction Dataset by M Yasser H (Kaggle).*
